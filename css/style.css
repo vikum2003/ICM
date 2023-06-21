@@ -1,0 +1,17 @@
+.box{
+    width:200px;
+    height: 200px;
+    background-color: green;
+    border: 2px solid blue;
+    bottom: 600px;
+    left: 60px;
+    position: sticky;
+
+
+}
+.btn{
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
